@@ -987,57 +987,57 @@ local wh2_units = {
     
     -------NORMAL UNITS-------
     --CORE
-    {"wh2_main_def_inf_black_ark_corsairs_0", "core"},
-    {"wh2_main_def_inf_black_ark_corsairs_1", "core"},
     {"wh2_main_def_inf_darkshards_0", "core"},
     {"wh2_main_def_inf_darkshards_1", "core"},
     {"wh2_main_def_cav_dark_riders_2", "core"},
     {"wh2_main_def_inf_bleakswords_0", "core"},
     {"wh2_main_def_inf_dreadspears_0", "core"},
-    {"wh2_main_def_inf_witch_elves_0", "core"},
     {"wh2_main_def_cav_dark_riders_0", "core"},
-    {"wh2_main_def_cav_dark_riders_1", "core"},
-    {"wh_twa03_def_inf_squig_explosive_0", "core"}, --RAKARTH UNIQUE
-    --SPECIAL
-    {"wh2_main_def_inf_harpies", "special", 1},
-    {"wh2_dlc10_def_mon_feral_manticore_0", "special", 2},
-    {"wh2_main_def_inf_shades_0", "special", 1},
-    {"wh2_main_def_inf_shades_1", "special", 2},
-    {"wh2_main_def_inf_shades_2", "special", 2},
-    {"wh2_main_def_inf_black_guard_0", "special", 2},
-    {"wh2_main_def_cav_cold_one_knights_0", "special", 1},
-    {"wh2_main_def_cav_cold_one_knights_1", "special", 2},
-    {"wh2_main_def_inf_har_ganeth_executioners_0", "special", 2},
-    {"wh2_main_def_cav_cold_one_chariot", "special", 2},
-    {"wh2_dlc10_def_cav_doomfire_warlocks_0", "special", 2},
-    {"wh2_dlc14_def_cav_scourgerunner_chariot_0", "special", 2},
-    {"wh2_twa03_def_mon_wolves_0", "special", 1}, --RAKARTH UNIQUE
-    --RARE
-    {"wh2_main_def_art_reaper_bolt_thrower", "rare", 1},
-    {"wh2_main_def_mon_black_dragon", "rare", 3},
-    {"wh2_main_def_mon_war_hydra", "rare", 2},
-    {"wh2_dlc10_def_mon_kharibdyss_0", "rare", 2},
-    {"wh2_dlc14_def_mon_bloodwrack_medusa_0", "rare", 1},
-    {"wh2_dlc14_def_veh_bloodwrack_shrine_0", "rare", 2},
-    {"wh2_twa03_def_mon_war_mammoth_0", "rare", 2}, --RAKARTH UNIQUE
-    
-    -------ROR-------
-    --CORE
+	
     {"wh2_dlc10_def_inf_the_bolt_fiends_ror_0", "core"},
     {"wh2_dlc10_def_inf_the_hellebronai_ror_0", "core"},
-    {"wh2_dlc10_def_inf_sisters_of_the_singing_doom_ror_0", "core"}, 
-    {"wh2_dlc10_def_cav_raven_heralds_ror_0", "core"},
-    {"wh2_dlc14_def_inf_harpies_ror_0", "core"},
-    --SPECIAL
-    {"wh2_dlc10_def_inf_blades_of_the_blood_queen_ror_0", "special", 2},
-    {"wh2_dlc10_def_cav_slaanesh_harvesters_ror_0", "special", 2},
-    {"wh2_dlc10_def_cav_knights_of_the_ebon_claw_ror_0", "special", 2},
-    {"wh2_dlc14_def_cav_scourgerunner_chariot_ror_0", "special", 2},
-    --RARE
-    {"wh2_dlc10_def_mon_chill_of_sontar_ror_0", "rare", 2},
-    {"wh2_dlc10_def_inf_sisters_of_slaughter", "rare", 1},
-    {"wh2_dlc14_def_mon_bloodwrack_medusa_ror_0", "rare", 2},
 
+	
+    --RARE 1
+    {"wh2_main_def_inf_black_ark_corsairs_0", "rare", 1},
+    {"wh2_main_def_inf_black_ark_corsairs_1", "rare", 1},    
+    {"wh2_main_def_inf_witch_elves_0", "rare", 1},
+    {"wh2_main_def_cav_dark_riders_1", "rare", 1},
+    {"wh_twa03_def_inf_squig_explosive_0", "rare", 1}, --RAKARTH UNIQUE
+    {"wh2_main_def_inf_harpies", "rare", 1},
+    {"wh2_dlc10_def_mon_feral_manticore_0", "rare", 1},
+    {"wh2_main_def_inf_shades_0", "rare", 1},
+    {"wh2_main_def_inf_shades_1", "rare", 1},
+    {"wh2_main_def_inf_shades_2", "rare", 1},
+    {"wh2_main_def_inf_black_guard_0", "rare", 1},
+    {"wh2_main_def_cav_cold_one_knights_0", "rare", 1},
+    {"wh2_main_def_cav_cold_one_knights_1", "rare", 1},
+    {"wh2_main_def_inf_har_ganeth_executioners_0", "rare", 1},
+    {"wh2_main_def_cav_cold_one_chariot", "rare", 1},
+    {"wh2_dlc10_def_cav_doomfire_warlocks_0", "rare", 1},
+    {"wh2_dlc14_def_cav_scourgerunner_chariot_0", "rare", 1},
+    {"wh2_twa03_def_mon_wolves_0", "rare", 1}, --RAKARTH UNIQUE
+    {"wh2_main_def_art_reaper_bolt_thrower", "rare", 1},
+    {"wh2_dlc14_def_mon_bloodwrack_medusa_0", "rare", 1},
+    {"wh2_dlc10_def_inf_sisters_of_slaughter", "rare", 1},
+	
+    {"wh2_dlc10_def_inf_sisters_of_the_singing_doom_ror_0", "rare", 1}, 
+    {"wh2_dlc10_def_cav_raven_heralds_ror_0", "rare", 1},
+    {"wh2_dlc14_def_inf_harpies_ror_0", "rare", 1},
+    {"wh2_dlc10_def_inf_blades_of_the_blood_queen_ror_0", "rare", 1},
+    {"wh2_dlc10_def_cav_slaanesh_harvesters_ror_0", "rare", 1},
+    {"wh2_dlc10_def_cav_knights_of_the_ebon_claw_ror_0", "rare", 1},
+    {"wh2_dlc14_def_cav_scourgerunner_chariot_ror_0", "rare", 1},
+    {"wh2_dlc14_def_mon_bloodwrack_medusa_ror_0", "rare", 1},
+    
+    --RARE 2
+
+    {"wh2_main_def_mon_black_dragon", "rare", 2},
+    {"wh2_main_def_mon_war_hydra", "rare", 2},
+    {"wh2_dlc10_def_mon_kharibdyss_0", "rare", 2},
+    {"wh2_dlc14_def_veh_bloodwrack_shrine_0", "rare", 2},
+    {"wh2_twa03_def_mon_war_mammoth_0", "rare", 2}, --RAKARTH UNIQUE
+    {"wh2_dlc10_def_mon_chill_of_sontar_ror_0", "rare", 2},
     
     ---------------------------------------------------------------
     --TOMB KINGS
