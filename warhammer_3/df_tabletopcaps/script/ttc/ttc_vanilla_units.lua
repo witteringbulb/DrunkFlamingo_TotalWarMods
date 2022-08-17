@@ -997,20 +997,23 @@ local wh2_units = {
     {"wh2_dlc10_def_inf_the_bolt_fiends_ror_0", "core"},
     {"wh2_dlc10_def_inf_the_hellebronai_ror_0", "core"},
 
+    --SPECIAL 1
+    {"wh2_main_def_inf_black_ark_corsairs_0", "special", 1},
+    {"wh2_main_def_inf_black_ark_corsairs_1", "special", 1},    
+    {"wh2_main_def_inf_witch_elves_0", "special", 1},
+    {"wh2_dlc10_def_inf_sisters_of_the_singing_doom_ror_0", "special", 1}, 
+    {"wh2_main_def_cav_dark_riders_1", "special", 1},
+    {"wh_twa03_def_inf_squig_explosive_0", "special", 1}, --RAKARTH UNIQUE
+    {"wh2_main_def_inf_harpies", "special", 1},
+    {"wh2_dlc14_def_inf_harpies_ror_0", "special", 1},
+    {"wh2_main_def_inf_shades_0", "special", 1},
+    {"wh2_main_def_cav_cold_one_knights_0", "special", 1},
 	
     --RARE 1
-    {"wh2_main_def_inf_black_ark_corsairs_0", "rare", 1},
-    {"wh2_main_def_inf_black_ark_corsairs_1", "rare", 1},    
-    {"wh2_main_def_inf_witch_elves_0", "rare", 1},
-    {"wh2_main_def_cav_dark_riders_1", "rare", 1},
-    {"wh_twa03_def_inf_squig_explosive_0", "rare", 1}, --RAKARTH UNIQUE
-    {"wh2_main_def_inf_harpies", "rare", 1},
     {"wh2_dlc10_def_mon_feral_manticore_0", "rare", 1},
-    {"wh2_main_def_inf_shades_0", "rare", 1},
     {"wh2_main_def_inf_shades_1", "rare", 1},
     {"wh2_main_def_inf_shades_2", "rare", 1},
     {"wh2_main_def_inf_black_guard_0", "rare", 1},
-    {"wh2_main_def_cav_cold_one_knights_0", "rare", 1},
     {"wh2_main_def_cav_cold_one_knights_1", "rare", 1},
     {"wh2_main_def_inf_har_ganeth_executioners_0", "rare", 1},
     {"wh2_main_def_cav_cold_one_chariot", "rare", 1},
@@ -1020,10 +1023,8 @@ local wh2_units = {
     {"wh2_main_def_art_reaper_bolt_thrower", "rare", 1},
     {"wh2_dlc14_def_mon_bloodwrack_medusa_0", "rare", 1},
     {"wh2_dlc10_def_inf_sisters_of_slaughter", "rare", 1},
-	
-    {"wh2_dlc10_def_inf_sisters_of_the_singing_doom_ror_0", "rare", 1}, 
+    
     {"wh2_dlc10_def_cav_raven_heralds_ror_0", "rare", 1},
-    {"wh2_dlc14_def_inf_harpies_ror_0", "rare", 1},
     {"wh2_dlc10_def_inf_blades_of_the_blood_queen_ror_0", "rare", 1},
     {"wh2_dlc10_def_cav_slaanesh_harvesters_ror_0", "rare", 1},
     {"wh2_dlc10_def_cav_knights_of_the_ebon_claw_ror_0", "rare", 1},
@@ -1031,7 +1032,6 @@ local wh2_units = {
     {"wh2_dlc14_def_mon_bloodwrack_medusa_ror_0", "rare", 1},
     
     --RARE 2
-
     {"wh2_main_def_mon_black_dragon", "rare", 2},
     {"wh2_main_def_mon_war_hydra", "rare", 2},
     {"wh2_dlc10_def_mon_kharibdyss_0", "rare", 2},
