@@ -911,71 +911,64 @@ local wh2_units = {
     {"wh2_main_hef_inf_archers_0", "core"},
     {"wh2_main_hef_inf_archers_1", "core"},
     {"wh2_main_hef_inf_lothern_sea_guard_0", "core"},
-    {"wh2_main_hef_inf_lothern_sea_guard_1", "core"},
-    {"wh2_main_hef_cav_ellyrian_reavers_1", "core"},
     {"wh2_main_hef_inf_spearmen_0", "core"},
     {"wh2_main_hef_cav_ellyrian_reavers_0", "core"},
-    {"wh2_main_hef_cav_silver_helms_0", "core"},
-    {"wh2_main_hef_cav_silver_helms_1", "core"},
-    {"wh2_dlc15_hef_inf_rangers_0", "core"},
-    --SPECIAL
-    {"wh2_main_hef_inf_phoenix_guard", "special", 2},
-    {"wh2_main_hef_inf_swordmasters_of_hoeth_0", "special", 2},
-    {"wh2_main_hef_inf_white_lions_of_chrace_0", "special", 1},
-    {"wh2_main_hef_cav_dragon_princes", "special", 2},
-    {"wh2_main_hef_cav_ithilmar_chariot", "special", 2},
-    {"wh2_main_hef_cav_tiranoc_chariot", "special", 1},
-    {"wh2_main_hef_mon_great_eagle", "special", 2},
-    {"wh2_dlc10_hef_inf_shadow_warriors_0", "special", 1},
-    {"wh2_dlc15_hef_inf_silverin_guard_0", "special", 1},
-    {"wh2_dlc15_hef_mon_war_lions_of_chrace_0", "special", 1},
-    {"wh2_dlc15_hef_veh_lion_chariot_of_chrace_0", "special", 2},
-    --RARE
-    {"wh2_main_hef_art_eagle_claw_bolt_thrower", "rare", 1},
-    {"wh2_main_hef_mon_moon_dragon", "rare", 2},
-    {"wh2_main_hef_mon_phoenix_flamespyre", "rare", 1},
-    {"wh2_main_hef_mon_phoenix_frostheart", "rare", 1},
-    {"wh2_main_hef_mon_star_dragon", "rare", 3},
-    {"wh2_main_hef_mon_sun_dragon", "rare", 2},
-    {"wh2_dlc10_hef_inf_sisters_of_avelorn_0", "rare", 1},
-    {"wh2_dlc15_hef_mon_arcane_phoenix_0", "rare", 2},
-    
-    -------FACTION UNIQUES-------
-    --CORE
     {"wh2_dlc10_hef_inf_dryads_0", "core"}, --ALARIELLE UNIQUE
-    --SPECIAL
-    {"wh2_dlc10_hef_mon_treekin_0", "special", 2}, --ALARIELLE UNIQUE
-    {"wh2_dlc10_hef_inf_shadow_walkers_0", "special", 2}, --ALITH ANAR UNIQUE
-    {"wh2_dlc15_hef_inf_mistwalkers_faithbearers_0", "special", 1},  --ELTHARION UNIQUE
-    {"wh2_dlc15_hef_inf_mistwalkers_sentinels_0", "special", 1}, --ELTHARION UNIQUE
-    {"wh2_dlc15_hef_inf_mistwalkers_skyhawks_0", "special", 1}, --ELTHARION UNIQUE
-    {"wh2_dlc15_hef_inf_mistwalkers_spireguard_0", "special", 1}, --ELTHARION UNIQUE
-    --RARE
-    {"wh2_dlc10_hef_mon_treeman_0", "rare", 3}, --ALARIELLE UNIQUE
-    {"wh2_dlc15_hef_inf_mistwalkers_griffon_knights_0", "rare", 3}, --ELTHARION UNIQUE
-    {"wh2_dlc15_hef_mon_black_dragon_imrik", "rare", 3}, --IMRIK UNIQUE
-    {"wh2_dlc15_hef_mon_forest_dragon_imrik", "rare", 3}, --IMRIK UNIQUE
-    {"wh2_dlc15_hef_mon_moon_dragon_imrik", "rare", 3}, --IMRIK UNIQUE
-    {"wh2_dlc15_hef_mon_star_dragon_imrik", "rare", 3}, --IMRIK UNIQUE
-    {"wh2_dlc15_hef_mon_sun_dragon_imrik", "rare", 2}, --IMRIK UNIQUE
-    
-    -------ROR-------
-    --CORE
     {"wh2_dlc10_hef_inf_the_scions_of_mathlann_ror_0", "core"},
     {"wh2_dlc10_hef_inf_the_storm_riders_ror_0", "core"},
     {"wh2_dlc15_hef_inf_archers_ror_0", "core"},
+    
     --SPECIAL
-    {"wh2_dlc10_hef_inf_the_silverpelts_ror_0", "special", 1},
-    {"wh2_dlc10_hef_inf_keepers_of_the_flame_ror_0", "special", 2},
-    {"wh2_dlc10_hef_inf_the_grey_ror_0", "special", 1},
-    {"wh2_dlc10_hef_cav_the_fireborn_ror_0", "special", 2},
+    {"wh2_main_hef_inf_lothern_sea_guard_1", "special", 1},
+    {"wh2_main_hef_cav_ellyrian_reavers_1", "special", 1},
     {"wh2_dlc10_hef_cav_the_heralds_of_the_wind_ror_0", "special", 1},
-    {"wh2_dlc15_hef_mon_war_lions_of_chrace_ror_0", "special", 1},
-    --RARE
+    {"wh2_main_hef_cav_silver_helms_0", "special", 1},
+    {"wh2_dlc15_hef_inf_rangers_0", "special", 1},
+    {"wh2_main_hef_cav_tiranoc_chariot", "special", 1},
+    {"wh2_main_hef_mon_great_eagle", "special", 1},
+	
+    --RARE 1
+    {"wh2_main_hef_cav_silver_helms_1", "rare", 1},
+    {"wh2_main_hef_inf_phoenix_guard", "rare", 1},
+    {"wh2_main_hef_inf_swordmasters_of_hoeth_0", "rare", 1},
+    {"wh2_main_hef_inf_white_lions_of_chrace_0", "rare", 1},
+    {"wh2_main_hef_cav_dragon_princes", "rare", 1},
+    {"wh2_main_hef_cav_ithilmar_chariot", "rare", 1},
+    {"wh2_dlc10_hef_inf_shadow_warriors_0", "rare", 1},
+    {"wh2_dlc15_hef_inf_silverin_guard_0", "rare", 1},
+    {"wh2_dlc15_hef_mon_war_lions_of_chrace_0", "rare", 1},
+    {"wh2_dlc15_hef_veh_lion_chariot_of_chrace_0", "rare", 1},
+    {"wh2_main_hef_art_eagle_claw_bolt_thrower", "rare", 1},
+    {"wh2_main_hef_mon_phoenix_flamespyre", "rare", 1},
+    {"wh2_main_hef_mon_phoenix_frostheart", "rare", 1},
+    {"wh2_main_hef_mon_sun_dragon", "rare", 1},
+    {"wh2_dlc10_hef_inf_sisters_of_avelorn_0", "rare", 1},
+    {"wh2_dlc15_hef_mon_arcane_phoenix_0", "rare", 1},
+    {"wh2_dlc10_hef_mon_treekin_0", "rare", 1}, --ALARIELLE UNIQUE
+    {"wh2_dlc10_hef_inf_shadow_walkers_0", "rare", 1}, --ALITH ANAR UNIQUE
+    {"wh2_dlc15_hef_inf_mistwalkers_faithbearers_0", "rare", 1},  --ELTHARION UNIQUE
+    {"wh2_dlc15_hef_inf_mistwalkers_sentinels_0", "rare", 1}, --ELTHARION UNIQUE
+    {"wh2_dlc15_hef_inf_mistwalkers_skyhawks_0", "rare", 1}, --ELTHARION UNIQUE
+    {"wh2_dlc15_hef_inf_mistwalkers_spireguard_0", "rare", 1}, --ELTHARION UNIQUE
+    {"wh2_dlc15_hef_mon_sun_dragon_imrik", "rare", 1}, --IMRIK UNIQUE
+    {"wh2_dlc10_hef_inf_the_silverpelts_ror_0", "rare", 1},
+    {"wh2_dlc10_hef_inf_keepers_of_the_flame_ror_0", "rare", 1},
+    {"wh2_dlc10_hef_inf_the_grey_ror_0", "rare", 1},
+    {"wh2_dlc10_hef_cav_the_fireborn_ror_0", "rare", 1},
+    {"wh2_dlc15_hef_mon_war_lions_of_chrace_ror_0", "rare", 1},
     {"wh2_dlc10_hef_inf_everqueens_court_guards_ror_0", "rare", 1},
-    {"wh2_dlc15_hef_mon_arcane_phoenix_ror_0", "rare", 2},
+    {"wh2_dlc15_hef_mon_arcane_phoenix_ror_0", "rare", 1},
     
-    
+    --RARE 2
+    {"wh2_main_hef_mon_moon_dragon", "rare", 2},
+    {"wh2_main_hef_mon_star_dragon", "rare", 2},
+    {"wh2_dlc10_hef_mon_treeman_0", "rare", 2}, --ALARIELLE UNIQUE
+    {"wh2_dlc15_hef_inf_mistwalkers_griffon_knights_0", "rare", 2}, --ELTHARION UNIQUE
+    {"wh2_dlc15_hef_mon_black_dragon_imrik", "rare", 2}, --IMRIK UNIQUE
+    {"wh2_dlc15_hef_mon_forest_dragon_imrik", "rare", 2}, --IMRIK UNIQUE
+    {"wh2_dlc15_hef_mon_moon_dragon_imrik", "rare", 2}, --IMRIK UNIQUE
+    {"wh2_dlc15_hef_mon_star_dragon_imrik", "rare", 2}, --IMRIK UNIQUE
+	
     ---------------------------------------------------------------
     --DARK ELVES
     ---------------------------------------------------------------
@@ -984,20 +977,19 @@ local wh2_units = {
     --CORE
     {"wh2_main_def_inf_darkshards_0", "core"},
     {"wh2_main_def_inf_darkshards_1", "core"},
-    {"wh2_main_def_cav_dark_riders_2", "core"},
     {"wh2_main_def_inf_bleakswords_0", "core"},
     {"wh2_main_def_inf_dreadspears_0", "core"},
     {"wh2_main_def_cav_dark_riders_0", "core"},
-	
+    {"wh2_main_def_cav_dark_riders_1", "core"},	
     {"wh2_dlc10_def_inf_the_bolt_fiends_ror_0", "core"},
     {"wh2_dlc10_def_inf_the_hellebronai_ror_0", "core"},
 
     --SPECIAL 1
     {"wh2_main_def_inf_black_ark_corsairs_0", "special", 1},
-    {"wh2_main_def_inf_black_ark_corsairs_1", "special", 1},    
+    {"wh2_main_def_inf_black_ark_corsairs_1", "special", 1},   
+    {"wh2_main_def_cav_dark_riders_2", "special", 1},
     {"wh2_main_def_inf_witch_elves_0", "special", 1},
     {"wh2_dlc10_def_inf_sisters_of_the_singing_doom_ror_0", "special", 1}, 
-    {"wh2_main_def_cav_dark_riders_1", "special", 1},
     {"wh_twa03_def_inf_squig_explosive_0", "special", 1}, --RAKARTH UNIQUE
     {"wh2_main_def_inf_harpies", "special", 1},
     {"wh2_dlc14_def_inf_harpies_ror_0", "special", 1},
