@@ -837,14 +837,14 @@ local wh2_units = {
     {"wh2_main_skv_inf_night_runners_1", "special", 1},
     {"wh2_main_skv_inf_gutter_runner_slingers_0", "special", 1},
     {"wh2_main_skv_inf_gutter_runners_0", "special", 1},
+    {"wh2_main_skv_inf_gutter_runner_slingers_1", "special", 1},
+    {"wh2_main_skv_inf_gutter_runners_1", "special", 1},
     {"wh2_dlc16_skv_mon_wolf_rats_0", "special", 1},
     {"wh2_dlc16_skv_mon_wolf_rats_0_flesh_lab", "special", 1},
 	
     --RARE 1
     {"wh2_main_skv_mon_rat_ogres", "rare", 1},
     {"wh2_main_skv_inf_death_runners_0", "rare", 1},
-    {"wh2_main_skv_inf_gutter_runner_slingers_1", "rare", 1},
-    {"wh2_main_skv_inf_gutter_runners_1", "rare", 1},
     {"wh2_main_skv_inf_poison_wind_globadiers", "rare", 1},
     {"wh2_main_skv_inf_warpfire_thrower", "rare", 1},
     {"wh2_main_skv_inf_plague_monk_censer_bearer", "rare", 1},
